@@ -1,1 +1,1 @@
-print"Hello from python demo version 02")
+print("Hello from python demo version 02")
